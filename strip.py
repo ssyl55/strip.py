@@ -3,7 +3,7 @@
 """
 Python Script to strip trailing whitespace at the end of lines in files
 
-AUTHOR: Stephen Liu
+AUTHOR: ssyl55
 DATE:   03/03/16
 """
 
